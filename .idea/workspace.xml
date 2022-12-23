@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7f469ab-c14e-44fc-971e-27db56bd115c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium_v1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +182,7 @@
       <workItem from="1671777174989" duration="230000" />
       <workItem from="1671777432067" duration="304000" />
       <workItem from="1671825256782" duration="135000" />
-      <workItem from="1671825528529" duration="307000" />
+      <workItem from="1671825528529" duration="1059000" />
     </task>
     <servers />
   </component>
